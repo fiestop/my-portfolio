@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+}
+.head{
+    /* background-color: rgb(25, 0, 255); */
+    display: flex !important;
+    padding-left: 45px;
+    padding-right: 60px;
+    font-size: larger;
+}
+.project{
+    margin-left: auto;
+}
+.about{
+    padding-inline:35px;
+}
+.contact{
+    /* padding-right:45px; */
+}
+.color{
+    background-color: lightblue ;
+
+}
+
